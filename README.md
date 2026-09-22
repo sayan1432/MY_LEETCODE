@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sayan1432/MY_LEETCODE/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sayan1432/MY_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
